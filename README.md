@@ -139,4 +139,4 @@ Detta projekt är licensierat under MIT-licensen - se [LICENSE](LICENSE) för de
 
 ---
 
-Denna README ger en omfattande översikt över AI Task Manager-projektet, beskriver dess installation, användning, funktioner och konfiguration. Den syftar till att hjälpa användare att förstå och effektivt använda verktyget för att hantera AI-drivna uppgifter.
+

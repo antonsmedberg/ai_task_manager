@@ -38,7 +38,7 @@ För att installera AI Task Manager, följ dessa steg:
 1. Klona repositoriet:
 
    ```bash
-   git clone https://github.com/yourusername/ai_task_manager.git
+   git clone https://github.com/antonsmedberg/ai_task_manager.git
    cd ai_task_manager
    ```
 
